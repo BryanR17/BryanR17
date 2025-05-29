@@ -1,56 +1,62 @@
-<br clear="both">
 
-<h2 align="left">Hello World! Meu nome é Bryan Rodrigues 💻</h2>
-<p> Sou desenvolvedor Fullstack Junior, trabalho em uma empresa de soluções chamada SolutionTechSys </p>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3564d0&height=120&section=header"/>
 
-🎓 **Formado em Gestão de TI**
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=50&center=true&vCenter=true&width=1000&lines=Oi,+meu+nome+é+Bryan+Rodrigues;Tenho+21+anos;Sou+de+Goiatuba+-+Goias;Me+formei+em+Gestão+de+TI;Seja+Bem+-+vindo!+:%29)](https://git.io/typing-svg)
 
-💻 **Sempre em busca de apredizado**
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BryanR17&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BryanR17&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=prussian&hide_border=false" height="144" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=BryanR17&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=BryanR17&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=3564d0" alt="Matheus Maia Alvarez github stats" /> 
+  <img width="41%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BryanR17&layout=compact&hide_border=true&title_color=00bfbf&text_color=fff&bg_color=3564d0" />
 </div>
 
-###
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BryanR17&bg_color=3564d0&color=fff&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-</div>
+<div align="center" style = "display: flex; gap: 20px; justify-content: center;" >  
 
-###
-
-<br clear="both">
-
-<div align="center">
-  <a href="https://www.instagram.com/bryanrodrim/?igsh=MTBiOTI5bnc5aWM1eg%3D%3D&utm_source=qr#" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <a href="https://www.instagram.com/bryanrodrim/" target="_blank" style="text-decoration: none;">
+    <div style="display: inline-flex; align-items: center; background-color: #ff0069; color: white; padding: 10px 15px; border-radius: 15px; font-family: Arial, sans-serif;">
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="LinkedIn" style="width: 20px; height: 20px; margin-right: 8px;">
+      Instagram
+    </div>
   </a>
-  <a href="bryanrodrigues3002@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+
+  <a href="https://www.linkedin.com/in/bryan-rodrigu4368br34/" target="_blank" style="text-decoration: none;">
+    <div style="display: inline-flex; align-items: center; background-color: #0077B5; color: white; padding: 10px 15px; border-radius: 15px; font-family: Arial, sans-serif;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" style="width: 20px; height: 20px; margin-right: 8px;">
+      LinkedIn
+    </div>
   </a>
-  <a href="https://www.linkedin.com/in/bryan-rodrigu4368br34/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
+</div> 
+     
+### Minhas skills:
+<div style="display: inline_block">
+<img height="40" width="50" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" />
+<img height="40" width="50" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"/> 
+<img height="40" width="50" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>
+<img height="40" width="50" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+<img height="40" width="50" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img height="40" width="50" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img height="40" width="50" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
 </div>
 
-###
+### Ferramentas:
+<div style="display: inline_block">
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/BryanR17/count.svg?"  />
+<img height="40" width="50" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+<img height="40" width="50" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+<img height="40" width="50" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+<img height="40" width="50" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />
+
+</div>
+ 
+### Outros conhecimentos:
+<div style="display: inline_block">
+<img height="40" width="50" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+<img height="40" width="50" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
 </div>
 
-###
+### Estudando no momento:
+<div style="display: inline_block">
+<img height="40" width="50" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" />
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3564d0&height=120&section=footer"/>
