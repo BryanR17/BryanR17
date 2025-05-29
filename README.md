@@ -1,12 +1,17 @@
 <br clear="both">
 
-<h2 align="left">Hello World! My name is Bryan Rodrigues I am a junior developer 💻</h2>
+<h2 align="left">Hello World! Meu nome é Bryan Rodrigues 💻</h2>
+<p> Sou desenvolvedor Fullstack Junior, trabalho em uma empresa de soluções chamada SolutionTechSys </p>
+
+🎓 **Formado em Gestão de TI**
+
+💻 **Sempre em busca de apredizado**
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BryanR17&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BryanR17&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=prussian&hide_border=false" height="144" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=BryanR17&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BryanR17&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=prussian&hide_border=false" height="144" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=BryanR17&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
